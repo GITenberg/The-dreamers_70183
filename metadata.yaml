@@ -1,0 +1,25 @@
+_repo: The-dreamers_70183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kella, Lu
+    gutenberg_agent_id: '52466'
+    url: http://www.gutenberg.org/2009/agents/52466
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70183'
+language: en
+pgterms:marc905: 20220526153624kella
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The dreamers
+url: http://www.gutenberg.org/ebooks/70183
